@@ -105,7 +105,3 @@ gradio
 
 ***
 
-
-***
-
-Let me know if you need project badges, GitHub Actions, or demo screenshots included!
